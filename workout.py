@@ -20,7 +20,7 @@ def log_workout():
 
 
 def save_workout(abc):
-    with open (r"E:\Pythons folder\gym_tracker\data.txt","a") as f:
+    with open ("data.txt","a") as f:
         f.write(current_str1)
         f.write(f"Weight - {abc.weight}\n")
         f.write(f"Reps - {abc.reps}\n")

@@ -1,0 +1,33 @@
+Weight - a
+Reps - a
+Exercise -a
+Weight - 20
+Reps - 12
+Exercise -Bench Press
+Weight - h
+Reps - h
+Exercise -h
+Weight - 20
+Reps - 12
+Exercise -Bench Press
+Weight - 1
+Reps - 1
+Exercise -1
+Weight - 20
+Reps - 12
+Exercise -Bench Press
+Weight - 20
+Reps - 12
+Exercise -Bench Press
+Weight - 20
+Reps - 12
+Exercise -abc
+Weight - 20
+Reps - 12
+Exercise -Bench Press
+28-May-2026, 08:50 AMWeight - 20
+Reps - 12
+Exercise -Bench Press
+28-May-2026, 08:51 AMWeight - 20
+Reps - 12
+Exercise -Bench Press

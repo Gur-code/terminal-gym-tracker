@@ -21,7 +21,8 @@ def log_workout():
 
 def save_workout(abc):
     with open ("data.txt","a") as f:
-        f.write(current_str1)
+        f.write(f"{current_str1} \n")
+        f.write(f"Exercise -{abc.exercise}\n")
         f.write(f"Weight - {abc.weight}\n")
         f.write(f"Reps - {abc.reps}\n")
-        f.write(f"Exercise -{abc.exercise}\n")
+        

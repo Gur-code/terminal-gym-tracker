@@ -1,11 +1,11 @@
 def show_log():
-    with open (r"E:\Pythons folder\gym_tracker\data.txt","r") as f:
+    with open ("data.txt","r") as f:
         abc = f.read()
         return abc
 
 
 def Personal_rec(word): 
-    with open(r"E:\Pythons folder\gym_tracker\data.txt","r") as f:
+    with open("data.txt","r") as f:
         PR = 0
         while True:
             abc = f.readline()
